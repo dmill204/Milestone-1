@@ -42,7 +42,7 @@
     <!-- About Us Page -->
     <div class="container">
       <h1>About Us</h1>
-      <p>We are a small team of web developers.</p>
+      <p>I am a student at Kennesaw State University, currently persuing my BS in Information Technology.</p>
     </div>
     
     <!-- Contact Us Page -->
