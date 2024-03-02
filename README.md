@@ -1,6 +1,6 @@
 <html> 
     <head>
-        <title></title>
+        <title>Welcome</title>
         <link rel ="stylesheet" type="text/css" href="main.css">
         <style>
             h1{
