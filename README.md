@@ -59,7 +59,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Contact Page</title>
+    Contact
 </head>
 <body>
     <header>
@@ -73,16 +73,7 @@
         </nav>
     </header>
     <main>
-        <p>Contact us at example@example.com or fill out the form below:</p>
-        <form>
-            <label for="name">Name:</label><br>
-            <input type="text" id="name" name="name"><br>
-            <label for="email">Email:</label><br>
-            <input type="email" id="email" name="email"><br>
-            <label for="message">Message:</label><br>
-            <textarea id="message" name="message"></textarea><br>
-            <input type="submit" value="Submit">
-        </form>
+        <p>For any information or questions that you may have please contact me at: dmill204@students.kennesaw.edu</p>
     </main>
     <footer>
         <p>&copy; 2024 My Website. All rights reserved.</p>
