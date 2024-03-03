@@ -3,11 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    Home
 </head>
 <body>
     <header>
-        <h1>Welcome to My Website</h1>
+        <h1>Welcome to My Website - Daniel Miller</h1>
         <nav>
             <ul>
                 <li><a href="index.html">Home</a></li>
@@ -17,7 +16,6 @@
         </nav>
     </header>
     <main>
-        <p>This is the home page content. Welcome!</p>
     </main>
     <footer>
         <p>&copy; 2024 My Website. All rights reserved.</p>
@@ -31,7 +29,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    About
 </head>
 <body>
     <header>
@@ -59,7 +56,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    Contact
 </head>
 <body>
     <header>
