@@ -1,48 +1,26 @@
-<html> 
-    <head>
-        <title>Welcome</title>
-        <link rel ="stylesheet" type="text/css" href="main.css">
-        <style>
-            h1{
-                text-align: center;
-                color:teal;
-            }
-            h2{
-                text-align: left;
-                color: rgb(1, 116, 116);
-            }
-            h3{
-                color: rgb(2, 172, 172);
-            }
-        </style>
-
-
-    </head>
-
-
-
-    <body>
-        
-
-        <h1> Welcome to my page <br> (Welcome)</h1>
-        
-
-             <a href="Home.html">
-                <button class = "BtnM">Home</button>
-             </a>
-             <a href="About.html">
-                <button class = "BtnF">About</button>
-             </a> 
-             <a href="Contact.html">
-                <button class = "BtnR">Contact</button>
-             </a>
-             
-                 
-                 
-
-                 
-
-            
-    </body>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home Page</title>
+</head>
+<body>
+    <header>
+        <h1>Welcome to My Website</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <p>This is the home page content. Welcome!</p>
+    </main>
+    <footer>
+        <p>&copy; 2024 My Website. All rights reserved.</p>
+    </footer>
+</body>
 </html>
-
