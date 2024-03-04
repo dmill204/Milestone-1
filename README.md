@@ -29,7 +29,7 @@
 </head>
 <body>
     <header>
-        <h1>About Us</h1>
+        <h1>About Me</h1>
         <nav>
             <ul>
                 <li><a href="index.html">Home</a></li>
