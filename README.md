@@ -81,6 +81,10 @@
         <div class="input_email">
             <input type="email" name="email" id="input_email" placeholder="Email" required>
         </div>
+        <div class="remark">
+            <textarea name="message" id="message_by_user" cols="25" rows-"10" placeholder="Message" required>
+            </textarea>
+        </div>
         <div class="submit_the_form">
             <button type="submit" name="submit_btn" id="submit_the_form">Submit
             </button>
