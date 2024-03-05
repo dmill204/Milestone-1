@@ -75,9 +75,19 @@
         </nav>
     </header>
     <main>
-        <p>For any information or questions that you may have please contact me at: dmill204@students.kennesaw.edu</p>
+        <div class="input_name">
+            <input type="text" name="name" id="input_name" placeholder="Name" required>
+        </div>
+        <div class="input_email">
+            <input type="email" name="email" id="input_email" placeholder="Email" required>
+        </div>
+        <div class="submit_the_form">
+            <button type="submit" name="submit_btn" id="submit_the_form">Submit
+            </button>
+        </div>
     </main>
     <footer>
+        <p>For any information or questions that you may have please contact me at: dmill204@students.kennesaw.edu</p>
     </footer>
 </body>
 </html>
