@@ -92,6 +92,7 @@
         </div>
     </main>
     <footer>
+        <p></p>
         <p>For any information or questions that you may have please contact me at: dmill204@students.kennesaw.edu</p>
     </footer>
 </body>
