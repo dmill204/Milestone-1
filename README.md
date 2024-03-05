@@ -85,6 +85,7 @@
             <textarea name="message" id="message_by_user" cols="25" rows="10" placeholder="Message" required>
             </textarea>
         </div>
+        <p>Enter any questions or remarks you have for me below:</p>
         <div class="submit_the_form">
             <button type="submit" name="submit_btn" id="submit_the_form">Submit
             </button>
