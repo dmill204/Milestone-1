@@ -9,9 +9,9 @@
         <h1>Welcome to My Website - Daniel Miller</h1>
         <nav>
             <ul>
-                <li><a href="#Home">Home</a></li>
+                <li><a href="https://dmill204.github.io/Web_Page/">Home</a></li>
                 <li><a href="#About">About</a></li>
-                <li><a href="Contact_Page">Contact</a></li>
+                <li><a href="https://dmill204.github.io/Contact_Page/">Contact</a></li>
             </ul>
         </nav>
     </header>
