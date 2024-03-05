@@ -75,7 +75,7 @@
         </nav>
     </header>
     <main>
-        <div class="input_name">
+        <div class="input_name"> 
             <input type="text" name="name" id="input_name" placeholder="Name" required>
         </div>
         <div class="input_email">
