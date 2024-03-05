@@ -10,7 +10,7 @@
             <ul>
                 <li><a href="index.html">Home</a></li>
                 <li><a href="#About">About</a></li>
-                <li><a href="contact.html">Contact</a></li>
+                <li><a href="#Contact">Contact</a></li>
             </ul>
         </nav>
     </header>
@@ -40,7 +40,7 @@
             <ul>
                 <li><a href="index.html">Home</a></li>
                 <li><a href="#About">About</a></li>
-                <li><a href="contact.html">Contact</a></li>
+                <li><a href="#Contact">Contact</a></li>
             </ul>
         </nav>
     </header>
@@ -55,7 +55,7 @@
 
 
 
-
+<section id="Contact">
 
 <html lang="en">
 <head>
@@ -69,7 +69,7 @@
             <ul>
                 <li><a href="index.html">Home</a></li>
                 <li><a href="#About">About</a></li>
-                <li><a href="contact.html">Contact</a></li>
+                <li><a href="#Contact">Contact</a></li>
             </ul>
         </nav>
     </header>
@@ -80,3 +80,4 @@
     </footer>
 </body>
 </html>
+</section>
