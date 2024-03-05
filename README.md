@@ -10,7 +10,7 @@
         <nav>
             <ul>
                 <li><a href="https://dmill204.github.io/Web_Page/">Home</a></li>
-                <li><a href="#About">About</a></li>
+                <li><a href="https://dmill204.github.io/About_Page/">About</a></li>
                 <li><a href="https://dmill204.github.io/Contact_Page/">Contact</a></li>
             </ul>
         </nav>
