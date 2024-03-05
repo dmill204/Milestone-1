@@ -76,10 +76,10 @@
     </header>
     <main>
         <div class="input_name"> 
-            <input type="text" name="name" id="input_name" placeholder="Name" required>
+            <input type="text" name="name" id="input_name" placeholder="Enter your name here" required>
         </div>
         <div class="input_email">
-            <input type="email" name="email" id="input_email" placeholder="Email" required>
+            <input type="email" name="email" id="input_email" placeholder="Enter your email here" required>
         </div>
         <div class="text_area">
             <textarea name="message" id="message_by_user" cols="25" rows="10" placeholder="Message" required>
