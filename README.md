@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, inittial-scale=1.0">
 </head>
-  <button id="themeToggle">Toggle Theme</button>
+  <button id="themeToggle">Dark Mode</button>
 
   <script>
     const body = document.body;
