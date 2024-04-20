@@ -17,6 +17,16 @@
     }
   </style>
 </head>
+  <button id="themeToggle">Toggle Theme</button>
+
+  <script>
+    const body = document.body;
+    const themeToggle = document.getElementById('themeToggle');
+
+    themeToggle.addEventListener('click', () => {
+      body.classList.toggle('dark-mode');
+    });
+  </script>
 <body>
     <header>
         <h1>Welcome to My Website - Daniel Miller</h1>
