@@ -19,9 +19,11 @@
         <h1>Welcome to My Website - Daniel Miller</h1>
         <nav>
             <ul>
-                <li><a href="https://dmill204.github.io/Web_Page/">Home</a></li>
-                <li><a href="https://dmill204.github.io/About_Page/">About</a></li>
-                <li><a href="https://dmill204.github.io/Contact_Page/">Contact</a></li>
+                <h1>My name is Daniel Miller, I am currently a student at Kennesaw State University persuing my degree in Information Technology with a concentration in data analytics. This website is created for my Advanced Web and Mobile Application class, with professor Pranita Shedage. </h1>
+                <li><a href="https://www.kennesaw.edu/ccse/academics/information-technology/">Kennesaw State University IT Department Home Page</a></li>
+                <p></p>
+                <h2>Links to Milestone:</h2>
+                <li><a href="https://dmill204.github.io/About_Page/">Milestone 1</a></li>
             </ul>
         </nav>
     </header>
