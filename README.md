@@ -24,6 +24,9 @@
                 <p></p>
                 <h2>Links to Milestone:</h2>
                 <li><a href="https://dmill204.github.io/About_Page/">Milestone 1</a></li>
+                <li><a href="">Milestone 2</a></li>
+                <li><a href="">Milestone 3</a></li>
+                <li><a href="">Milestone 4</a></li>
             </ul>
         </nav>
     </header>
