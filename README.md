@@ -1,7 +1,8 @@
 <section id="Home">
 <html lang="en">
 <head>
-    
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, inittial-scale=1.0">
 </head>
   <button id="themeToggle">Toggle Theme</button>
 
